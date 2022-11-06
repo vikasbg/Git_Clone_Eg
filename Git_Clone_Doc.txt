@@ -1,0 +1,1 @@
+created this file to check, how git clone is useful for me and also trying to understand the concept of git clone.
